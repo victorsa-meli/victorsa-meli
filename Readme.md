@@ -6,8 +6,8 @@ Hoje trabalho na fantastica fabrica de sonhos #Meli <3
 
 <div align="center">
   <a href="https://github.com/victorsa-meli/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorsa-meli"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsa-meli"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorsa-meli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsa-meli&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
