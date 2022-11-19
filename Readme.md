@@ -1,6 +1,12 @@
 ### Olá 👋
 
+studante de Ciência da Computação com ênfase em desenvolvimento fullstack.
 
+Tenho como objetivo aprimorar minhas habilidades, adquirir experiencia e colocar em pratica todo o conhecimento teórico adquirido durante a graduação. Quero me especializar em desenvolvimento fullstack, com ênfase na experiência do usuário e acessibilidade a pessoas com deficiência, realidade virtual e metaverso.
+
+Sempre busco agregar valor a empresa, tomando parte da equipe, alcançando as metas desejadas. 
+
+Sou criativo, inovador e tenho facilidade em absorver novos conhecimentos, além de criar ótimos relacionamentos nos ambientes de trabalho. Amo trabalhar em equipe, a experiência do cliente é minha paixão.
 
 Hoje trabalho na fantastica fabrica de sonhos #Meli <3 
 
