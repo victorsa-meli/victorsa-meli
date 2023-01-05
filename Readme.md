@@ -8,7 +8,7 @@ Sempre busco agregar valor a empresa, tomando parte da equipe, alcançando as me
 
 Sou criativo, inovador e tenho facilidade em absorver novos conhecimentos, além de criar ótimos relacionamentos nos ambientes de trabalho. Amo trabalhar em equipe, a experiência do cliente é minha paixão.
 
-Hoje trabalho na fantastica fabrica de sonhos #Meli <3 
+Hoje trabalho na fantastica fabrica de adrenalina meli <3 #GoMeliGo
 
 <div align="center">
   <a href="https://github.com/victorsa-meli">
