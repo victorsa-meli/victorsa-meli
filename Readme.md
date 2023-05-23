@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Estudante de Ciência da Computação com ênfase em desenvolvimento fullstack.
+<h1>Estudante de Ciência da Computação com ênfase em desenvolvimento fullstack.</h1>
 
 Tenho como objetivo aprimorar minhas habilidades, adquirir experiencia e colocar em pratica todo o conhecimento teórico adquirido durante a graduação. Quero me especializar em desenvolvimento fullstack, com ênfase na experiência do usuário e acessibilidade a pessoas com deficiência, realidade virtual e metaverso.
 
