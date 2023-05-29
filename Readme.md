@@ -1,14 +1,15 @@
 ### Olá 👋
 
-<h1>Estudante de Ciência da Computação com ênfase em desenvolvimento fullstack.</h1>
+I am a technology enthusiast with experience in various areas, focusing on backend development. My key skills include Java, Spring, MySQL, Docker, and clean architecture. I am constantly updated on the latest trends and technological advancements, seeking to enhance my skills and knowledge.
 
-Tenho como objetivo aprimorar minhas habilidades, adquirir experiencia e colocar em pratica todo o conhecimento teórico adquirido durante a graduação. Quero me especializar em desenvolvimento fullstack, com ênfase na experiência do usuário e acessibilidade a pessoas com deficiência, realidade virtual e metaverso.
+As a professional, I am dedicated and committed to adding value to the company I work for. I have a creative and innovative approach to problem-solving, and I am quick to learn new technologies and concepts. I value teamwork and believe that collaboration is essential for achieving exceptional results. Furthermore, I have a passion for customer experience and believe that a quality product and employee satisfaction are key elements for a company's success.
 
-Sempre busco agregar valor a empresa, tomando parte da equipe, alcançando as metas desejadas. 
-
-Sou criativo, inovador e tenho facilidade em absorver novos conhecimentos, além de criar ótimos relacionamentos nos ambientes de trabalho. Amo trabalhar em equipe, a experiência do cliente é minha paixão.
-
-Hoje trabalho na fantastica fabrica de adrenalina meli <3 #GoMeliGo
+Technologies: 
+Java
+Python
+C#
+Go
+Spring(frameworks web)
 
 <div align="center">
   <a href="https://github.com/victorsa-meli">
