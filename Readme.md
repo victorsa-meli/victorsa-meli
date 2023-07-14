@@ -24,6 +24,8 @@ Spring(frameworks web)
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  
   <img align="right" alt="pic" height="400" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1027702778417660026/1027703351527342151/584e837f6a5ae41a83ddee3b.png?width=420&height=605">
 </div>
   
