@@ -25,7 +25,7 @@ Spring(frameworks web)
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
-  <img align="right" alt="pic" height="800" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1027702778417660026/1027703351527342151/584e837f6a5ae41a83ddee3b.png?width=420&height=605">
+  <img align="right" alt="pic" height="800" style="border-radius:50px;" src="https://media.discordapp.net/attachments/928091326849892416/1129263338833063966/26-02-imagem-blog-2.png">
 </div>
   
   ##
