@@ -30,8 +30,9 @@ Spring(frameworks web)
 
     
 </div>
-   <img align="center" alt="pic" height="600" style="border-radius:25px;" src="https://gifs.eco.br/wp-content/uploads/2021/10/imagens-e-gifs-do-goku-super-sayajin-10.gif">
-  ##
+  
+   <br><img align="center" alt="pic" height="600" style="border-radius:25px;" src="https://gifs.eco.br/wp-content/uploads/2021/10/imagens-e-gifs-do-goku-super-sayajin-10.gif">
+  
  
 <div> 
   
