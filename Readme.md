@@ -1,4 +1,4 @@
-### <h1> Hello !!  My name's Victor Sá  👋</h1>
+![image](https://github.com/victorsa-meli/victorsa-meli/assets/115086703/7a540972-21e6-47e6-a4c5-e36f74871ddb)### <h1> Hello !!  My name's Victor Sá  👋</h1>
 
 I am a technology enthusiast with experience in various areas, focusing on backend development. My key skills include Java, Spring, MySQL, Docker, and clean architecture. I am constantly updated on the latest trends and technological advancements, seeking to enhance my skills and knowledge.
 
@@ -25,7 +25,7 @@ Spring(frameworks web)
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
-  <img align="center" alt="pic" height="500" style="border-radius:50px;" src="https://i.gifer.com/ZLnf.gif">
+  <img align="center" alt="pic" height="500" style="border-radius:50px;" src="https://www.icegif.com/wp-content/uploads/2023/02/icegif-543.gif">
   
 
     
