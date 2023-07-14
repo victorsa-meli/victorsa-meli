@@ -25,7 +25,7 @@ Spring(frameworks web)
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
-  <img align="center" alt="pic" height="500" style="border-radius:50px;" src="https://gifer.com/embed/ZLnf">
+  <img align="center" alt="pic" height="500" style="border-radius:50px;" src="https://i.gifer.com/ZLnf.gif">
   
 
     
