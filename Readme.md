@@ -1,4 +1,4 @@
-![image](https://github.com/victorsa-meli/victorsa-meli/assets/115086703/7a540972-21e6-47e6-a4c5-e36f74871ddb)### <h1> Hello !!  My name's Victor Sá  👋</h1>
+<h1> Hello !!  My name's Victor Sá  👋</h1>
 
 I am a technology enthusiast with experience in various areas, focusing on backend development. My key skills include Java, Spring, MySQL, Docker, and clean architecture. I am constantly updated on the latest trends and technological advancements, seeking to enhance my skills and knowledge.
 
