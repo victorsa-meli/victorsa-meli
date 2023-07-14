@@ -11,9 +11,9 @@ C#
 Go
 Spring(frameworks web)
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/victorsa-meli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsa-meli&theme=dark&layout=compact&langs_count=7"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsa-meli&theme=dark&layout=compact&langs_count=7"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
