@@ -25,7 +25,7 @@ Spring(frameworks web)
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
-  <img align="center" alt="pic" height="500" style="border-radius:50px;" src="https://gifs.eco.br/wp-content/uploads/2021/10/imagens-e-gifs-do-goku-super-sayajin-10.gif">
+  <img align="center" alt="pic" height="600" style="border-radius:25px;" src="https://gifs.eco.br/wp-content/uploads/2021/10/imagens-e-gifs-do-goku-super-sayajin-10.gif">
   
 
     
